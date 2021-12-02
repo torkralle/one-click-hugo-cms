@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: 自己紹介
   text: |-
-    フリーランスでエンジニアをしている大学4年生です。
+    フリーランスでエンジニアをしている大学4年生です。  
     Tiktokで歌ってみたを投稿しています。
 intro:
   heading: What we offer
